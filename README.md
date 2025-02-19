@@ -45,6 +45,7 @@ Agora que o MySQL está rodando no Docker, você pode se conectar a ele de vári
    - **Hostname**: `localhost`
    - **Port**: `3306`
    - **Username**: `root`
+   - **Database Host**: `db`
    - **Password**: `secret` (ou a senha que você definiu no `docker-compose.yml`).
 3. Clique em **"Test Connection"** para verificar a conexão.
 
